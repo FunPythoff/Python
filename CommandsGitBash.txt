@@ -15,7 +15,7 @@
 8. git branch - zarządzanie gałęziami Git, takimi jak utworzenie nowej gałęzi lub przełączanie się między istniejącymi gałęziami.
 
 9. git checkout - przełączanie się między gałęziami lub do innych commitów.
-
+9a. git checkout -b"nazwa_branch" - dodawanie nowego branch do repo
 10. git merge - scalanie dwóch lub więcej gałęzi w jedną.
 
 11. git pull - pobieranie najnowszych zmian z zdalnego repozytorium i scalenie ich z lokalnym repozytorium.
