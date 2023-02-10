@@ -21,3 +21,5 @@
 11. git pull - pobieranie najnowszych zmian z zdalnego repozytorium i scalenie ich z lokalnym repozytorium.
 
 12. git push - wysyłanie zmian z lokalnego repozytorium do zdalnego repozytorium.
+
+13. rm file_to_delete.txt - usuniecie pliku z repo, trzeba go jeszcze dodac do indeksu Git "git rm file_to_delete.txt, stworzyc nowy commit git commit -m"commit_name" i wypushowac zmiany git push origin nazwa_branch
